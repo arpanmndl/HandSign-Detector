@@ -6,6 +6,9 @@ This is a machine learning project used to detect hand signs.
 Libraries requied:
 1. cvzone
 2. mediapipe
+3. numpy
+4. opencv
+5. tensorflow
 
 =---------------------------------------------------------------------=
 
